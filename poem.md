@@ -15,13 +15,13 @@
     To take the pumpkins in.
 
     I wondered which would miss me least,
-    And when _Thanksgiving_ came,
+    And when _Thanksgiving came,
     If father'd multiply the plates
     To make an even sum.
 
     And if my stocking hung too high,
-    Would it blur the _Christmas_ glee,
-    That not a *Santa* *Claus* could reach
+    Would it blur the _Christmas glee,
+    That not a *Santa *Claus could reach
     The altitude of me?
 
     But this sort grieved myself, and so
