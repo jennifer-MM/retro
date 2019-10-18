@@ -1,4 +1,4 @@
-#Retrospect
+# Retrospect
 'T was just this time last year I died.
     I know I heard the corn,
     When I was carried by the farms, --
@@ -15,18 +15,18 @@
     To take the pumpkins in.
 
     I wondered which would miss me least,
-    And when Thanksgiving came,
+    And when _Thanksgiving_ came,
     If father'd multiply the plates
     To make an even sum.
 
     And if my stocking hung too high,
-    Would it blur the _Christmas glee,_
-    That not a *Santa Claus* could reach
+    Would it blur the _Christmas_ glee,
+    That not a *Santa* *Claus* could reach
     The altitude of me?
 
     But this sort grieved myself, and so
     I thought how it would be
-    _When just this time, some perfect year,_
+    When just this time, some perfect year,
     Themselves should come to me.
 
 https://public-domain-poetry.com/emily-elizabeth-dickinson/retrospect-13951
