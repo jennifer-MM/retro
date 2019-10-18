@@ -1,3 +1,4 @@
+#Retrospect
 'T was just this time last year I died.
     I know I heard the corn,
     When I was carried by the farms, --
@@ -19,11 +20,13 @@
     To make an even sum.
 
     And if my stocking hung too high,
-    Would it blur the Christmas glee,
-    That not a Santa Claus could reach
+    Would it blur the _Christmas glee,_
+    That not a *Santa Claus* could reach
     The altitude of me?
 
     But this sort grieved myself, and so
     I thought how it would be
-    When just this time, some perfect year,
+    _When just this time, some perfect year,_
     Themselves should come to me.
+
+https://public-domain-poetry.com/emily-elizabeth-dickinson/retrospect-13951
