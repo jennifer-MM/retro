@@ -26,7 +26,7 @@
 
     But this sort grieved myself, and so
     I thought how it would be
-    When just this time, some perfect year,
+    **When just this time, some perfect year**,
     Themselves should come to me.
 
 https://public-domain-poetry.com/emily-elizabeth-dickinson/retrospect-13951
